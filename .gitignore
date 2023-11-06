@@ -1,2 +1,5 @@
 node_modules
 .vscode
+db/app.db
+.env
+.idea
